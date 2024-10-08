@@ -1,1 +1,1 @@
-# basic-python-game
+# learning python
